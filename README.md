@@ -1,20 +1,48 @@
-<<<<<<< HEAD
-# fyp
+# NetStruct DataCenter Network Infrastructure Monitoring
 
-A new Flutter project.
+![Flutter](https://img.shields.io/badge/Flutter-3.0+-blue.svg)
+![Dart](https://img.shields.io/badge/Dart-3.0+-teal.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
 
-## Getting Started
+A comprehensive **DataCenter Network Infrastructure Monitoring** application built with Flutter. This project provides real-time monitoring, alerting, and visualization of network infrastructure components in data center environments.
 
-This project is a starting point for a Flutter application.
+## 📱 Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+<p align="center">
+  <img src="assets/screenshots/login.png"  width="350" alt="Login">
+  <img src="assets/screenshots/register.png" width="350" alt="Register">
+  <img src="assets/screenshots/dashboard.jpg" width="350" alt="Dashboard">
+  <img src="assets/screenshots/mobile.jpg" width="114" alt="Mobile-view">
+</p>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<p align="center">
+  <em>Login • Register • Dashboard • Mobile-view</em>
+</p>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# NetStruct-DataCenter-Network-Monitoring
->>>>>>> 20d30e423a8d18f1512a8f707f549bdcd2acdd4e
+
+
+## ✨ Features
+
+- 🔍 **Real-time Network Monitoring** - Track bandwidth, latency, and packet loss
+- 📊 **Interactive Dashboards** - Visualize network performance metrics
+- ⚠️ **Intelligent Alerts** - Get notified of anomalies and outages
+- 🗺️ **Network Topology Mapping** - Visual representation of infrastructure
+- 📈 **Historical Analytics** - Trend analysis and reporting
+- 🔐 **Secure Authentication** - Role-based access control
+- 📱 **Responsive Design** - Works on mobile, tablet, and desktop
+- 🌙 **Dark/Light Theme** - Customizable UI experience
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Flutter SDK (3.0 or higher)
+- Dart SDK (3.0 or higher)
+- Android Studio / VS Code
+- Git
+
+### Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Chameera-10/NetStruct-DataCenter-Network-Monitoring.git
